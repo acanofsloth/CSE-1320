@@ -1,0 +1,98 @@
+0) Exit program.
+
+1) Clear screen.
+
+2) Display all orders.
+
+3) Enqueue an order.
+
+4) Dequeue an order.
+
+Enter a choice.
+
+3
+Enter customer's name and choice: Bob Taco
+The order has been aadded to the queue.
+
+Enter a choice.
+
+2
+name            choice
+Bob             Taco
+
+Total orders: 1
+
+Enter a choice.
+
+3
+Enter customer's name and choice: Charlie Burrito
+The order has been aadded to the queue.
+
+Enter a choice.
+
+2
+name            choice
+Bob             Charlie
+Charlie         Burrito
+
+Total orders: 2
+
+Enter a choice.
+
+3
+Enter customer's name and choice: Jesse Bowl
+The order has been aadded to the queue.
+
+Enter a choice.
+
+2
+name            choice
+Bob             Charlie
+Charlie         Jesse
+Jesse           Bowl
+
+Total orders: 3
+
+Enter a choice.
+
+4
+An order has been removed from the queue.
+
+Enter a choice.
+
+2
+name            choice
+Bob             Bob
+Bob             Bob
+
+Total orders: 2
+
+Enter a choice.
+
+4
+An order has been removed from the queue.
+
+Enter a choice.
+
+2
+name            choice
+Bob             Bob
+
+Total orders: 1
+
+Enter a choice.
+
+4
+An order has been removed from the queue.
+
+Enter a choice.
+
+2
+name            choice
+
+Total orders: 0
+
+Enter a choice.
+
+0
+
